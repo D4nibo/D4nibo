@@ -23,7 +23,7 @@ Also, check out my other projects:
 
 :monkey_face: The famous Donkey Kong game made in Scheme: https://github.com/D4nibo/Programming-project1
 
-:hamburger: StudentEats, a project made with two other students that collects delicious and cheap places for students to eat
+:hamburger: StudentEats, a project made with two other students that collects delicious and cheap places for students to eat: https://github.com/daniazizz/studenteats
 
 ### How to reach me 📫
 
