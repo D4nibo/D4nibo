@@ -2,37 +2,25 @@
 
 ### Who am I ❓
 
-Currently, I am pursuing a Bachelor's degree in Applied Information Technology at [HOGENT](https://www.hogent.be/en/)., a university college located in Ghent, Belgium.
+I am a developer with a strong interest in data and in what can be achieved through it. Data has become a central pillar of modern IT. Many processes now rely heavily on it, from LLMs and the IoT to data-driven decision-making and data storage. In today's world, it is almost impossible to imagine technology without data. This is precisely what fascinates me.
 
-Today, data is a central pillar of modern IT. Many processes rely heavily on it — from large language models and the Internet of Things to data-driven decision-making and data storage. In our current era, a world without data is unimaginable. This is what fascinates me and why I chose to specialize in Data Engineering & AI at HOGENT. I am now in my third and final year.
+I am also particularly interested in how LLMs can be integrated into solutions for problems across different domains. LLMs are powerful tools, and their potential applications seem almost limitless. This interest led me to my most recent project: my bachelor’s final project.
 
-In addition to this, I also have a strong interest in cybersecurity and languages. I regularly try to expand my knowledge in cybersecurity by learning new concepts and participating in Capture The Flag (CTF) challenges. I currently speak five languages and am learning a sixth. I believe that learning a new language offers a new perspective on the world.
+For this project, I focused on a common issue in education: students often have many questions when taking a course, but getting reliable answers is not always straightforward. In general, students have three main options.
 
-### Current work 🔭 
+First, they can ask their peers. However, peers are not teaching authorities, which means that incorrect information can easily be shared and confusion can increase.
 
-I am currently working on my bachelor's end project. The problem I am trying to solve is the following: students are often confronted with a lot of questions when taking a course. In order to get an answer, students have three options:
-- Asking to their peers: the problem with this is that the peers are not a teaching authority. This could leed to false information being spread and increase the confusion.
-- Having a look at the course's documentation: courses dispose of many documentation explaining the modalities and content of the course. Rather, it seems that student are not making enough efforts to go through the documentation
-- Asking to the lecturer: the final and most straightforward option students have to get an answer is to ask the lecturer. Although students will surely get the answer to their question, this is not very practical for both parties. If the lecturer receives ten times the same question, he/she will have to answer it ten times, and if the students need the answer pretty fast there is no guarantee (or obligation) that the lecturer can deliver the answer on time.
+Second, students can consult the course documentation. Most courses provide documents explaining the course content, structure, requirements, and procedures. However, students do not always make enough effort to go through this documentation carefully, or they may struggle to find the specific information they need.
 
-To solve this, we propose a chatbot based on Large Language Models (LLM). Due to the dynamic nature of the education, we cannot build our own LLM since this would imply retraining each time a new file is uploaded or a modification is brought to an existing file. Instead, we propose to build a Retrieval-augmented-generation (RAG) pipeline which suits this environment better. To understand the concept of RAG, refer to [this](https://research.ibm.com/blog/retrieval-augmented-generation-RAG) small article by IBM. 
+Third, students can ask the lecturer directly. This is often the most reliable option, but it is not always practical for either party. If the lecturer receives the same question multiple times, they have to answer it repeatedly. At the same time, if students need a quick answer, there is no guarantee that the lecturer will be available to respond in due times.
 
-Find the repository for this project here: [Eureka](https://github.com/D4nibo/Eureka)
+To address this problem, we proposed a chatbot based on a LLM. Because education is a dynamic environment where course material can change frequently, building and training our own LLM would not be practical. It would require retraining the model every time a new file is uploaded or an existing file is modified. Instead, we proposed a Retrieval-Augmented Generation, or RAG, pipeline, which is better suited to this type of environment. You can find the repository for this project here: [Eureka](https://github.com/D4nibo/Eureka)
 
 Also, check out my other projects:
 
 :monkey_face: The famous Donkey Kong game made in Scheme: https://github.com/D4nibo/Programming-project1
 
 :hamburger: StudentEats, a project made with two other students that collects delicious and cheap places for students to eat: https://github.com/daniazizz/studenteats
-
-### How to reach me 📫
-
-If you wish to reach me, there are two ways to do so:
-
-👉 By [Mail](mailto:daniel.boustani@student.hogent.be)
-
-👉 On [Linkedin](https://www.linkedin.com/in/daniel-boustani-66432129b/)
-
 
 ### Toolbox 🧰
 
